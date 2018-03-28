@@ -14,3 +14,4 @@ Optional Keyboard Controls:
 	m - menu
 	p - pause
 	r - restart
+![https://github.com/MeadeRobert/CodeCombat/blob/master/images/Capture.PNG](https://github.com/MeadeRobert/CodeCombat/blob/master/images/Capture.PNG)
